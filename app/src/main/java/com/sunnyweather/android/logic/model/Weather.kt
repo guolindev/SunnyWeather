@@ -1,3 +1,3 @@
 package com.sunnyweather.android.logic.model
 
-class Weather(val realtime: RealtimeResponse.Realtime, val daily: DailyResponse.Daily)
+data class Weather(val realtime: RealtimeResponse.Realtime, val daily: DailyResponse.Daily)
