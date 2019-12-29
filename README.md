@@ -1,6 +1,6 @@
  # SunnyWeather
 
-SunnyWeather is an open source weather application for Android platform as the practice project in <i>"Fisrt Line of Android"</i> of Chapter 15.
+SunnyWeather is an open source weather application for Android platform as the practice project in <i>"First Line of Android"</i> of Chapter 15.
 
 All the places and weather apis are provided by Caiyun Weather.
 
