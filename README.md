@@ -10,7 +10,7 @@ This project is for studying purpose only.
 
 ## License
 ```
-Copyright (C)  Tony Green, LitePal Framework Open Source Project
+Copyright (C) SunnyWeather Open Source Project
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
